@@ -26,7 +26,7 @@ A handful of other repos from my Information Science coursework at UMD are also 
 
 ### 🧰 Currently working with
 
-`React` · `TypeScript` · `Vite` · `Tailwind CSS` · Vanilla JS/HTML/CSS
+`React` · `TypeScript` · `Vite` · `Tailwind CSS` · `JavaScript` · `HTML` · `CSS`
 
 ---
 
