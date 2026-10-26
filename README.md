@@ -6,7 +6,7 @@ Information Science grad (UMD) doing freelance web development. I like building 
 
 ### 🔭 What I've been building
 
-**[Tank Tracker](https://ettran777.github.io/aquariumTool/)** — an aquarium planning and tracking tool, built because nothing else tracks a tank from the moment it's still just an idea, not only after there's water in it. Free, no account, fully local-first (everything lives in your browser, nothing on a server). Guided stocking questionnaires, a build checklist with real dependency gating, a compatibility page that computes tank-wide water-parameter targets and predation risk from researched data instead of a fabricated species database, and an AI-import pipeline so an assistant can generate a starter tank plan from a rough idea.
+**[Tidemark](https://ettran777.github.io/aquariumTool/)** — an aquarium planning and tracking tool, built because nothing else tracks a tank from the moment it's still just an idea, not only after there's water in it. Free, no account, fully local-first (everything lives in your browser, nothing on a server). Guided stocking questionnaires, a build checklist with real dependency gating, a compatibility page that computes tank-wide water-parameter targets and predation risk from researched data instead of a fabricated species database, and an AI-import pipeline so an assistant can generate a starter tank plan from a rough idea.
 *React · TypeScript · Vite · Tailwind*
 
 **[Sushi King](https://ettran777.github.io/SushiKing/)** — a restaurant site built for a real client, from scratch. Cart system, a priority-queued auto-modal system for promos/announcements, and a scheduled light/dark theme switch tied to the restaurant's actual lunch hours.
