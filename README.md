@@ -12,7 +12,7 @@ Information Science grad (UMD) doing freelance web development. I like building 
 **[Sushi King](https://ettran777.github.io/SushiKing/)** — a restaurant site built for a real client, from scratch. Cart system, a priority-queued auto-modal system for promos/announcements, and a scheduled light/dark theme switch tied to the restaurant's actual lunch hours.
 *Vanilla HTML/CSS/JS*
 
-**[Portfolio](https://ettran777.github.io/portfolio/)** — My detailed experience, project, and education changelog 
+**[Portfolio](https://ettran777.github.io/portfolio/)** — My detailed experience, project, GitHub activity, and education changelog 
 
 ---
 
